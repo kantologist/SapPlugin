@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+PluginName: WorkshopPlugin
+CashdeskPOSPlugin: com.sap.workshop.plugin.WorkshopPlugin 
+CashDeskVersions: 2.0 SP00, 2.0 SP01, n/a
+Version: 1.0
